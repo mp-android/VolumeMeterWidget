@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">VolumeMeter Widget</string>
+    <string name="widget_name">VolumeMeter (1x1)</string>
+    <string name="ringer_label">R</string>
+    <string name="notification_label">N</string>
+    <string name="voice_label">V</string>
+    <string name="music_label">M</string>
+    <string name="alarm_label">A</string>
+    <string name="system_label">S</string>
+</resources>

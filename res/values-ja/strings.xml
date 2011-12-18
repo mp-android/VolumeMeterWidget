@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ringer_label">着</string>
+    <string name="notification_label">通</string>
+    <string name="voice_label">声</string>
+    <string name="music_label">音</string>
+    <string name="alarm_label">ア</string>
+    <string name="system_label">シ</string>
+</resources>
