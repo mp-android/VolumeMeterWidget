@@ -11,15 +11,15 @@
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:gravity">center</item>
-        <item name="android:layout_marginTop">1dip</item>
-        <item name="android:layout_marginBottom">1dip</item>
+        <item name="android:layout_marginTop">0.5dip</item>
+        <item name="android:layout_marginBottom">0.5dip</item>
     </style>
     <style name="Widget.Label" parent="android:Theme">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:minWidth">10dip</item>
         <item name="android:minHeight">10dip</item>
-        <item name="android:textSize">9dip</item>
+        <item name="android:textSize">9sp</item>
         <item name="android:layout_marginLeft">2dip</item>
     </style>
 </resources>
